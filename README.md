@@ -15,6 +15,9 @@ git clone https://github.com/simplon-roanne/agile-dev.git
 * Les sous-tâches sont ratachées à une User Story
 * A la fin de chaque sprint, les User Stories non placées dans la colonne "Done" seront reportées au prochain sprint
 
+## Wireframe
+Le client vous fournit ce (wireframe)[https://wireframe.cc/D68En2] qui est votre référence pour cette mission
+
 ## Consignes
 Set-up du projet : Avant de commencer, vous devez relier les ressources données au fichier index.html
 
