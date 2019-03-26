@@ -19,7 +19,7 @@ git clone https://github.com/simplon-roanne/agile-dev.git
 Le client vous fournit ce [wireframe](https://wireframe.cc/D68En2) qui est votre référence pour cette mission
 
 ## Consignes
-Set-up du projet : Avant de commencer, vous devez relier les ressources données au fichier index.html
+Set-up du projet : Avant de commencer, vous devez relier les ressources (Css&Js) données au fichier index.html
 
 1. Premier sprint
 * La barre de navigation affiche le logo de l'application, un menu avec 2 éléments et un bouton
