@@ -16,7 +16,7 @@ git clone https://github.com/simplon-roanne/agile-dev.git
 * A la fin de chaque sprint, les User Stories non placées dans la colonne "Done" seront reportées au prochain sprint
 
 ## Wireframe
-Le client vous fournit ce (wireframe)[https://wireframe.cc/D68En2] qui est votre référence pour cette mission
+Le client vous fournit ce [wireframe](https://wireframe.cc/D68En2) qui est votre référence pour cette mission
 
 ## Consignes
 Set-up du projet : Avant de commencer, vous devez relier les ressources données au fichier index.html
@@ -45,7 +45,7 @@ Set-up du projet : Avant de commencer, vous devez relier les ressources données
 * L'arborescence du projet donnée vous permet de mener à bien votre mission, vous n'aurez pas besoin de fichiers supplémentaires
 * Ne modifiez pas les fichiers sources materialize.css & materialize.js !
 * Des fichiers custom.css & custom.js, vous permettront d'ajouter styles et scripts personnalisés
-* Référez-vous le plus souvent à la documentation du framework (Materialize)[https://materializecss.com/]
+* Référez-vous le plus souvent à la documentation du framework [Materialize](https://materializecss.com/)
 * Toutes les images nécessaires à l'intégration du projet vous sont fournies dans le dossier
 * Comme d'habitude vous utiliserez du texte substitution (https://meettheipsums.com/)
 
