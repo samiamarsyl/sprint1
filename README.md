@@ -12,7 +12,7 @@ git clone https://github.com/simplon-roanne/agile-dev.git
 * Définir les User stories permettant de décrire le plus fidélement possible le parcours client
 * Créer une board Kanban permettant de gérer 3 états d'avancement possible (To-do, In progress, Done)
 * Chaque User Stories est un élément de la board Kanban qui doit être placée dans la colonne "To-do"
-* Les sous-tâches sont ratachées à une User Story
+* Créer des sous-tâches définissant le travail à effectuer et les ratacher à l'User Story concernée
 * A la fin de chaque sprint, les User Stories non placées dans la colonne "Done" seront reportées au prochain sprint
 
 ## Wireframe
