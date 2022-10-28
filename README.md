@@ -3,7 +3,7 @@ Pour ce projet, vous allez devoir créer une page à destination commerciale et 
 
 ## Démarrage
 ```bash
-git clone https://github.com/simplon-roanne/agile-dev.git
+git clone https://github.com/g404-dev-web/agile-dev.git
 ```
 
 ## Gestion de projet
