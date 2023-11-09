@@ -18,3 +18,27 @@ font-family: Arial;
 {
   width:50%;
 }
+
+button{
+  background-color: black;
+  color: white;
+  width: 100px;
+  height: 40px;
+  border-radius: 0px;
+  box
+}
+
+
+.deuxiemesection{
+background-color: white;
+display: flex;
+justify-content: space-between;
+}
+
+.imagedeuxiemesection{
+  width: 40%;
+}
+.textedeuxiemesection{
+  display: flex;
+  flex-direction: column;
+}
