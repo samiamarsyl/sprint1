@@ -1,15 +1,28 @@
 body
 {
-    background-color: #e75b48;
+    min-height: 100%;
 }
- 
-.smartphone
+#header
 {
- display: flex;
- justify-content: space-between;
- width: 50%;
+    background-color: black;
 }
+.premieresection
+{
+    background-color: rgb(212, 82, 82);
+    display: flex;
+    justify-content: space-between;
+max-height: 25%;
 
+    }
+
+    .imagepremieresection
+    {
+       width: 30%; 
+    }
+
+    .textepremieresection{
+        margin-left: 20px;
+    }
 
 button{
   background-color: black;
@@ -17,19 +30,20 @@ button{
   width: 100px;
   height: 40px;
   border-radius: 0px;
-  box
 }
 
 
 .deuxiemesection{
-background-color: white;
-display: flex;
-justify-content: space-between;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
 }
 
-.imagedeuxiemesection{
-  width: 40%;
-}
+.imagedeuxiemesection
+    {
+       width: 20%; 
+    }
+
 .textedeuxiemesection{
   display: flex;
   flex-direction: column;
