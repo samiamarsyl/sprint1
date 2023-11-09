@@ -1,21 +1,8 @@
-body
-{
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+
+body{
     background-color: #e75b48;
-}
- 
-.smartphone
-{
- display: flex;
- justify-content: space-between;
- width: 50%;
-}
-
-
-
-
-.col2
-{
-  width:50%;
+    min-height: 100%;
 }
 
 button{
@@ -24,14 +11,13 @@ button{
   width: 100px;
   height: 40px;
   border-radius: 0px;
-  box
 }
 
-
 .deuxiemesection{
+   max-height: 25%;
 background-color: white;
 display: flex;
-justify-content: space-between;
+justify-content:flex-end;
 }
 
 .imagedeuxiemesection{
