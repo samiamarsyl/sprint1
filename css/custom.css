@@ -1,19 +1,18 @@
 body
 {
-    background-color: #eda49c;
+    background-color: #e75b48;
 }
  
-header
+.smartphone
 {
-font-family: Arial;
+ display: flex;
+ justify-content: space-between;
+ width: 50%;
 }
 
-.col1
-{
- width:50%;
- background-color: #eda49c;
 
-}
+
+
 .col2
 {
   width:50%;
