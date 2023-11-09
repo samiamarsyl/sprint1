@@ -1,9 +1,33 @@
+
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
 
 body{
     background-color: #e75b48;
     min-height: 100%;
 }
+
+#header
+{
+    background-color: black;
+}
+.premieresection
+{
+    background-color: rgb(212, 82, 82);
+    display: flex;
+    justify-content: space-between;
+max-height: 25%;
+
+    }
+
+    .imagepremieresection
+    {
+       width: 30%; 
+    }
+
+    .textepremieresection{
+        margin-left: 20px;
+    }
+
 
 button{
   background-color: black;
@@ -14,6 +38,7 @@ button{
 }
 
 .deuxiemesection{
+
   padding:15%;
    max-height: 25%;
 background-color: white;
@@ -25,6 +50,9 @@ justify-content:space-between
   margin: 5%;
   width: 40%;
 }
+
+
+
 .textedeuxiemesection{
   margin:5%;
   display:flex;
