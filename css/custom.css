@@ -9,6 +9,7 @@ body{
 header
 {
     background-color: black;
+
     color: white;
     display: flex;
     justify-content:space-between;
@@ -32,17 +33,35 @@ header button{
   margin-left: 30px;
  }
 
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 20px;
+    }
+
+
+
 .premieresection
 {
     background-color: rgb(212, 82, 82);
     display: flex;
     justify-content: space-between;
+max-height: 25%;
   }
+
+
+
+
+   
+
 
 .imagepremieresection
     {
        width: 30%; 
     }   
+
+
 
 .textepremieresection{
         margin-left: 20px;
@@ -83,7 +102,11 @@ align-items: center;
 }
 
 .troisiemesection{
-padding:15%;
+
+
+  padding:15%;
+   max-height: 25%;
+
 background-color: rgb(100, 98, 98);
 display: flex;
 justify-content:space-between;
@@ -92,6 +115,7 @@ align-items: center;
 
 .imagetroisiemesection{
   margin: 5%;
+ 
   width: 40%;
 }
 .texte1troisiemesction{
@@ -107,3 +131,40 @@ align-items: center;
   align-items: center;
 }
 
+.quatriemesection
+{
+    display:flex;
+    background-color: white;
+}
+
+.imagequatriemesection{
+    margin: 5%;
+    width: 20%;
+  }
+
+  .contactez-nous
+  {
+  box-sizing: border-box;
+  border: 1px solid #999;
+  border-radius: 30px;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  }
+  .logoreseau
+  {
+    margin: 5%;
+    width:  25px;
+  }
+  footer
+{
+    background-color: black;
+    width: 100%;
+	height: 50px;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 20px;
+    }
+
+    
