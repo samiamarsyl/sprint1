@@ -1,7 +1,11 @@
-body
-{
+
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+
+body{
+    background-color: #e75b48;
     min-height: 100%;
 }
+
 #header
 {
     background-color: black;
@@ -24,6 +28,7 @@ max-height: 25%;
         margin-left: 20px;
     }
 
+
 button{
   background-color: black;
   color: white;
@@ -32,19 +37,49 @@ button{
   border-radius: 0px;
 }
 
-
 .deuxiemesection{
-    background-color: white;
-    display: flex;
-    justify-content: space-between;
+
+  padding:15%;
+   max-height: 25%;
+background-color: white;
+display: flex;
+justify-content:space-between
 }
 
-.imagedeuxiemesection
-    {
-       width: 20%; 
-    }
+.imagedeuxiemesection{
+  margin: 5%;
+  width: 40%;
+}
+
+
 
 .textedeuxiemesection{
-  display: flex;
-  flex-direction: column;
+  margin:5%;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
 }
+
+.boutondeuxiemesection{
+  margin-top: 5%;
+}
+
+.troisiemesection{
+  padding:15%;
+   max-height: 25%;
+background-color: rgb(100, 98, 98)34, 120, 120);
+display: flex;
+justify-content:space-between
+}
+
+.imagetroisiemesection{
+  margin: 5%;
+  width: 40%;
+}
+.textetroisiemesction{
+  margin:5%;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+}
+
