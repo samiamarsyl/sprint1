@@ -14,16 +14,44 @@ button{
 }
 
 .deuxiemesection{
+  padding:15%;
    max-height: 25%;
 background-color: white;
 display: flex;
-justify-content:flex-end;
+justify-content:space-between
 }
 
 .imagedeuxiemesection{
+  margin: 5%;
   width: 40%;
 }
 .textedeuxiemesection{
-  display: flex;
-  flex-direction: column;
+  margin:5%;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
 }
+
+.boutondeuxiemesection{
+  margin-top: 5%;
+}
+
+.troisiemesection{
+  padding:15%;
+   max-height: 25%;
+background-color: rgb(100, 98, 98)34, 120, 120);
+display: flex;
+justify-content:space-between
+}
+
+.imagetroisiemesection{
+  margin: 5%;
+  width: 40%;
+}
+.textetroisiemesction{
+  margin:5%;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+}
+
